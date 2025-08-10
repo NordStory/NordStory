@@ -41,13 +41,19 @@
 
 ---
 
-## Примеры репозиториев
+-->
+
+## Мои работы
 
 | Репозиторий | Описание |
 |-------------|----------|
-|||
+|[SCAutomation (homelab)](https://github.com/NordStory/ClientTerminal/tree/main)|Автоматизация для малого бизнеса|
+|[Yandex Parser](https://github.com/NordStory/util-JavaScript-yandex.parser.admin)|Расширение для выгрузки данных о сотрудниках с панели администратора Yandex (admin.yandex.ru)|
+|[Telegram Auto Signature](https://github.com/NordStory/util-JavaScript-telegram.signature)|Браузерное расширение, которое автоматически добавляет подпись к каждому сообщению в веб-версии Telegram.|
 
 ---
+
+<!--
 
 ## Связь
 
